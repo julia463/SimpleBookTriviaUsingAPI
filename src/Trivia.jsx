@@ -43,8 +43,6 @@ const Trivia = () => {
           </div>
         ))}
       </ol>
-      <button>Submit</button>
-      <p>Your Score:</p>
       <p>
         Guess what? I was too lazy to randomize the answers- the correct answers
         are all the first options!
