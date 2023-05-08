@@ -1,6 +1,6 @@
 import React from "react";
 
-function calculateTotal() {}
+
 
 const Trivia = () => {
   const [trivia, setTrivia] = React.useState([]);
